@@ -21,8 +21,3 @@ button.frame = (0, 0, 150, 110)
 v.add_subview(button)
 
 appex.set_widget_view(v)
-
-
-
-
-appex.set_widget_view(v)
